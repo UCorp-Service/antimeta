@@ -1,5 +1,5 @@
 # Anti Meta
-AntiMeta, fotoğraf ve video dosyalarından metadata (exif bilgisi gibi) temizleyen bir araçtır. Fotoğraflar için ExifTool ve videolar için FFmpeg kullanır. Bu araç, gizliliğinizi korumanıza yardımcı olur, çünkü metadata, dosyanın oluşturulma tarihi, kamera bilgileri ve daha fazlasını içerebilir. Fotoğraf ve videoların gizlilik riski oluşturan meta verilerini tamamen silmek için geliştirilmiş basit bir araçtır. Bu araç ile JPEG, PNG, MP4 gibi dosyalardan tüm izleri kolayca temizleyebilirsin.
+AntiMeta, fotoğraf ve video dosyalarından metadata (exif bilgisi gibi) temizleyen bir araçtır. Fotoğraflar için ExifTool ve videolar için FFmpeg kullanır. Bu araç, gizliliğinizi korumanıza yardımcı olur, çünkü metadata, dosyanın oluşturulma tarihi, kamera bilgileri ve daha fazlasını içerebilir. Fotoğraf ve videoların gizlilik riski oluşturan meta verilerini tamamen silmek için geliştirilmiş güçlü bir araçtır. Bu araç ile JPEG, PNG, MP4 gibi dosyalardan tüm izleri kolayca temizleyebilirsin.
 
 ## 🚀 Özellikler
 📸 Fotoğraf Metadata Temizliği: JPEG, PNG, WEBP desteği
