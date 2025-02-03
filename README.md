@@ -10,7 +10,7 @@ AntiMeta, fotoğraf ve video dosyalarından metadata (exif bilgisi gibi) temizle
 - ⚡ Hızlı ve güvenli işlem
 - 🖥️ Basit komut satırı arayüzü
 
-## Kurulum
+## ⚙️ Kurulum
 Anti Meta, Rust dilinde yazılmıştır. Eğer Rust yüklü değilse:
 `sudo apt install rustc cargo -y`
 Veya Rust resmi komutuyla:
@@ -30,6 +30,6 @@ Projeyi Klonla ve Derle:
 **Videolar:** MP4, MOV, MKV
 
 ### ❗️ Uyarılar
--Bu araç dosyaların orijinal hallerini üzerine yazar. Önemli dosyalar için yedek alman tavsiye edilir.
+- Bu araç dosyaların orijinal hallerini üzerine yazar. Önemli dosyalar için yedek alman tavsiye edilir.
 
--Metadata silindikten sonra geri getirilemez.
+- Metadata silindikten sonra geri getirilemez.
