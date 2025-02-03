@@ -26,8 +26,8 @@ Projeyi Klonla ve Derle:
 `./target/release/antimeta --file /path/to/photo.jpg` veya `video.mp4`
 
 ### 📝 Desteklenen Formatlar
-**Fotoğraflar:** JPG, JPEG, PNG, WEBP
-**Videolar:** MP4, MOV, MKV
+- **Fotoğraflar:** JPG, JPEG, PNG, WEBP
+- **Videolar:** MP4, MOV, MKV
 
 ### ❗️ Uyarılar
 - Bu araç dosyaların orijinal hallerini üzerine yazar. Önemli dosyalar için yedek alman tavsiye edilir.
