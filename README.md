@@ -12,7 +12,7 @@ AntiMeta, fotoğraf ve video dosyalarından metadata (exif bilgisi gibi) temizle
 
 ## Kurulum
 Anti Meta, Rust dilinde yazılmıştır. Eğer Rust yüklü değilse:
-`sudo apt install rustc cargo -y  # Debian/Ubuntu için`
+`sudo apt install rustc cargo -y`
 Veya Rust resmi komutuyla:
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 Projeyi Klonla ve Derle:
