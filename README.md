@@ -5,10 +5,10 @@ AntiMeta, fotoğraf ve video dosyalarından metadata (exif bilgisi gibi) temizle
 
 
 ## 🚀 Özellikler
--📸 Fotoğraf Metadata Temizliği: JPEG, PNG, WEBP desteği
--🎥 Video Metadata Temizliği: MP4, MOV, MKV desteği
--⚡ Hızlı ve güvenli işlem
--🖥️ Basit komut satırı arayüzü
+- 📸 Fotoğraf Metadata Temizliği: JPEG, PNG, WEBP desteği
+- 🎥 Video Metadata Temizliği: MP4, MOV, MKV desteği
+- ⚡ Hızlı ve güvenli işlem
+- 🖥️ Basit komut satırı arayüzü
 
 ## Kurulum
 Anti Meta, Rust dilinde yazılmıştır. Eğer Rust yüklü değilse:
