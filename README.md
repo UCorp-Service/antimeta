@@ -12,18 +12,26 @@ AntiMeta, fotoğraf ve video dosyalarından metadata (exif bilgisi gibi) temizle
 
 ## ⚙️ Kurulum
 Anti Meta, Rust dilinde yazılmıştır. Eğer Rust yüklü değilse:
-`sudo apt install rustc cargo -y`
+```bash
+sudo apt install rustc cargo -y
+```
 Veya Rust resmi komutuyla:
-`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 Projeyi Klonla ve Derle:
-`git clone https://github.com/UCorp-Service/antimeta.git`
-`cd metadata_cleaner`
-`chmod +x install_dependencies.sh`
-`./install_dependencies.sh`
-`cargo build --release`
+```bash
+git clone https://github.com/UCorp-Service/antimeta.git
+cd metadata_cleaner
+chmod +x install_dependencies.sh
+./install_dependencies.sh
+cargo build --release
+```
 
 ## 🚀 Kullanım
-`./target/release/antimeta --file /path/to/photo.jpg` veya `video.mp4`
+```bash
+./target/release/antimeta --file /path/to/photo.jpg & video.mp4
+```
 
 ### 📝 Desteklenen Formatlar
 - **Fotoğraflar:** JPG, JPEG, PNG, WEBP
